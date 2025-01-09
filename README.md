@@ -20,12 +20,15 @@ The system uses an ER model to define relationships between conferences, tracks,
 2. Import the dataset into MySQL using MySQL Workbench or any compatible SQL tool.
 3. Ensure the `ONLY_FULL_GROUP_BY` mode is enabled for query correctness.
 
-## Assignment Task
+## Task
 Write SQL queries to solve 10 questions, each focusing on different aspects of the system, such as:
 - Counting attended researchers for each conference.
 - Identifying the researcher with the most "unique" conferences attended.
 - Analyzing paper acceptance and rejection statistics.
 - Finding relationships between researchers and their influences.
+
+## Technologies  
+- SQL 
 
 ## Contributors
 - Ryan Huang
