@@ -29,7 +29,7 @@ Write SQL queries to solve 10 questions, each focusing on different aspects of t
 
 ## Contributors
 - Ryan Huang
-- University of Melbourne INFO20003 Teaching Team
+- University of Melbourne INFO20003 Teaching Team (Question Provider)
 
 ## License
 This project is for academic purposes under the University of Melbourne's INFO20003 Database Systems course.
