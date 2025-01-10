@@ -31,7 +31,7 @@ Write SQL queries to solve 10 questions, each focusing on different aspects of t
 - SQL 
 
 ## Contributors
-- Ryan Huang
+- Kerui Huang
 - University of Melbourne INFO20003 Teaching Team (Question Provider)
 
 ## License
