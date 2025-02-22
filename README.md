@@ -1,6 +1,4 @@
-# DBS_SQL
-
-# Conference Track-r - INFO20003 A2 S1 2024
+# Conference Track-r - INFO20003
 
 ## Overview
 Conference Track-r is a platform designed to track academic conferences, paper submissions, and researcher activities. It manages data about conferences, tracks, sessions, researchers, and papers, including submissions, reviews, presentations, and author-supervisor relationships.
